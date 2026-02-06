@@ -1,6 +1,6 @@
 # Setup Solution Without Timer (GPIO Encoder Mode)
 
-## MX Configuration
+## MX Configuration (Board Datasheet: https://os.mbed.com/platforms/ST-Nucleo-F767ZI/)
 
 *(Generate code from MX once setup is done)*
 
