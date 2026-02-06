@@ -7,7 +7,7 @@ tracking and real‑time monitoring without relying on software polling.
 
 ------------------------------------------------------------------------
 
-# Hardware Configuration (STM32CubeMX)
+# Hardware Configuration (STM32CubeMX) (Board Datasheet: https://os.mbed.com/platforms/ST-Nucleo-F767ZI/)
 
 Generate code after completing the following configuration.
 
